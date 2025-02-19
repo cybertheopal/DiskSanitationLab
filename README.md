@@ -45,6 +45,7 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk and assign a drive letter:  <br/>
 <img src="https://imgur.com/mhtuqen.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VogYd83.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
