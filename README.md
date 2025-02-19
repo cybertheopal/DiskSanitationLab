@@ -19,7 +19,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Launch the utility (admin acess): <br/>
 <img src="https://imgur.com/h4UzCcQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -27,15 +27,15 @@ Select the disk:  <br/>
 <img src="https://imgur.com/Hk1iZWA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Confirm the selection: <br/>
 <img src="https://imgur.com/Ned31Es.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Choose the format and name of the "new" disk:  <br/>
 <img src="https://imgur.com/TMy7Hi2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Initialize the disk:  <br/>
 <img src="https://imgur.com/UJUTjKr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -43,7 +43,7 @@ Sanitization complete:  <br/>
 <img src="https://imgur.com/2pcDOes.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Observe the wiped disk and assign a drive letter:  <br/>
 <img src="https://imgur.com/mhtuqen.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
